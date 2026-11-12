@@ -1,0 +1,6 @@
+# Архіви й службові файли не потрапляють у репозиторій
+*.zip
+.DS_Store
+Thumbs.db
+desktop.ini
+node_modules/
